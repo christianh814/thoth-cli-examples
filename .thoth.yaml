@@ -31,7 +31,7 @@ runtime_environments:
       cpu_model: 142
       gpu_model: null
     # Software configuration of runtime environment:
-    python_version: "3.8"
+    python_version: "3.10"
     cuda_version: null
     # Recommendation type - one of:
     #  * testing
