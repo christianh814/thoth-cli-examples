@@ -27,8 +27,8 @@ runtime_environments:
     # Hardware information for the recommendation engine:
     hardware:
       # Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz
-      cpu_family: 6
-      cpu_model: 142
+      cpu_family: null
+      cpu_model: null
       gpu_model: null
     # Software configuration of runtime environment:
     python_version: "3.10"
