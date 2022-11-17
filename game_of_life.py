@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3.6
 # thoth-cli-examples
 # Copyright(C) 2021 Red Hat, Inc.
 #
