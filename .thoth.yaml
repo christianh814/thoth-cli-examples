@@ -20,7 +20,7 @@ runtime_environments:
     # Operating system for which the recommendations should be created:
     operating_system:
       name: fedora
-      version: "36"
+      version: "35"
     # Labels to be used during the resolution (key-value pairs).
     labels:
       example_key: example_value
