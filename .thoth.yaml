@@ -16,11 +16,11 @@ overlays_dir: null
 virtualenv: true
 
 runtime_environments:
-  - name: ubi8
+  - name: fedora
     # Operating system for which the recommendations should be created:
     operating_system:
       name: fedora
-      version: "latest"
+      version: "36"
     # Labels to be used during the resolution (key-value pairs).
     labels:
       example_key: example_value
